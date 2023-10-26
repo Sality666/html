@@ -92,7 +92,7 @@
 }
 
 .search-button:hover .tooltip,
-.voice-search-button:hover .tooltip
+.voice-search-button:hover .tooltip,
 .upload-icon-container:hover .tooltip {
   opacity: 1;
 }
